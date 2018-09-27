@@ -1,0 +1,20 @@
+{
+  "name": "nodemongo",
+  "version": "1.0.0",
+  "description": "test mongo with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "noe"
+  },
+  "author": "alaa",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.17"
+  }
+}
